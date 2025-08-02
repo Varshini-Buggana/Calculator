@@ -29,5 +29,6 @@ A responsive and functional calculator built using core web technologies — no 
 
 ---
 
-## 📂 Project Structure
+## 🙌 Author
 
+Made with ❤️ by **Varshini**
